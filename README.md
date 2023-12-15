@@ -1,7 +1,6 @@
 ## Olá! Eu sou a Amanda Silveira 🖐️
 
 [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/amanda-silveira-258ab5267/)
-[![Portfolio](https://img.shields.io/badge/Twitch-9146FF?style=for-the-badge&logo=twitch&logoColor=white)](https://twitch.tv/fragabr)
 
 ![Amanda´s GitHub stats](https://github-readme-stats.vercel.app/api?username=amandasilveiraa&show_icons=true&theme=dracula&count_private=true)
 
@@ -15,4 +14,4 @@
   <img align="center" alt="nodejs" src="https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white" />
 </div><br/>
 
-Apaixonado por tecnologia, saúde e por mudar a vida das pessoas através da programação.
+Apaixonada por tecnologia, saúde e por mudar a vida das pessoas através da programação.
