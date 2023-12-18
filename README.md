@@ -1,10 +1,11 @@
-## Olá! Eu sou a Amanda Silveira 🖐️
+## Hi! I'm Amanda Silveira 🖐️
 
 [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/amanda-silveira-258ab5267/)
 
 ![Amanda´s GitHub stats](https://github-readme-stats.vercel.app/api?username=amandasilveiraa&show_icons=true&theme=dracula&count_private=true)
+![Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=amandasilveiraa&layout=compact)
 
-## Tecnologias que eu uso no meu dia
+## Technologies I use in my day
 
 <div style="display: inline_block">
   <img align="center" alt="html5" src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
@@ -14,4 +15,4 @@
   <img align="center" alt="nodejs" src="https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white" />
 </div><br/>
 
-Apaixonada por tecnologia, saúde e por mudar a vida das pessoas através da programação.
+Passionate about technology, health and changing people's lives through programming.
