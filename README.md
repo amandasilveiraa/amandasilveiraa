@@ -3,7 +3,7 @@
 [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/amanda-silveira-258ab5267/)
 
 ![Amanda´s GitHub stats](https://github-readme-stats.vercel.app/api?username=amandasilveiraa&show_icons=true&theme=dracula&count_private=true)
-![Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=amandasilveiraa&layout=compact)
+![Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=amandasilveiraa&layout=compact&theme=dracula)
 
 ## Technologies I use in my day
 
