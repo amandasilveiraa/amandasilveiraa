@@ -2,7 +2,7 @@
 
 [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/amanda-silveira-258ab5267/)
 
-<div align="left" style="display: inline_block">
+<div align="center" style="display: inline_block">
   <a href="https://github.com/amandasilveiraa/github-readme-stats">
     <img height=180 src="https://github-readme-stats.vercel.app/api?username=amandasilveiraa&show_icons=true&theme=dracula" />
   </a>
