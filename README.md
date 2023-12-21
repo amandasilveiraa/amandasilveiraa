@@ -2,12 +2,12 @@
 
 [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/amanda-silveira-258ab5267/)
 
-<div align="left">
+<div align="left" style="display: inline_block">
   <a href="https://github.com/amandasilveiraa/github-readme-stats">
-    <img height=180 src="https://github-readme-stats.vercel.app/api?username=amandasilveiraa&show_icons=true&theme=dracula" />
+    <img height=100 src="https://github-readme-stats.vercel.app/api?username=amandasilveiraa&show_icons=true&theme=dracula" />
   </a>
   <a href="https://github.com/amandasilveiraa/convoychat">
-    <img height=180 src="https://github-readme-stats.vercel.app/api/top-langs?username=amandasilveiraa&layout=compact&langs_count=8&card_width=320&theme=dracula" />
+    <img height=100 src="https://github-readme-stats.vercel.app/api/top-langs?username=amandasilveiraa&layout=compact&langs_count=8&card_width=320&theme=dracula" />
   </a>
 </div>
 
